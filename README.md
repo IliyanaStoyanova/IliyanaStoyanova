@@ -14,9 +14,10 @@ Welcome to my page! I'm a junior software developer. You can see in my profile d
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 
-## Find me around the web:
+## Where to find me
 - write to me by email: iliyana.t.stoyanova@gmail.com
 - connect my [Linkedin][Linkedin] profile 
 
 [Linkedin]: https://www.linkedin.com/in/iliyana-stoyanova/
+
 
