@@ -1,9 +1,8 @@
-### Hey! Nice to see you.
+## Hey! Nice to see you. :grinning:
 
 Welcome to my page! I'm a junior software developer. You can see in my profile different tasks that I did while studying.
-<!-- Things I code with [![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,angular,ts,html,css,bootstrap,flutter&perline=10)](https://skillicons.dev).
-![image]({https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}) -->
-## Things I code with
+
+### Things I code with
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -14,7 +13,7 @@ Welcome to my page! I'm a junior software developer. You can see in my profile d
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 
-## Where to find me
+### Where to find me
 - write to me by email: iliyana.t.stoyanova@gmail.com
 - connect my [Linkedin][Linkedin] profile 
 
